@@ -1,0 +1,37 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "A"
+    },
+    {
+      "id": "B"
+    },
+    {
+      "id": "C"
+    },
+    {
+      "id": "D"
+    }
+  ],
+  "links": [
+    {
+      "source": "A",
+      "target": "B"
+    },
+    {
+      "source": "A",
+      "target": "C"
+    },
+    {
+      "source": "B",
+      "target": "C"
+    },
+    {
+      "source": "C",
+      "target": "D"
+    }
+  ]
+}
